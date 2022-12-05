@@ -1,4 +1,4 @@
-package erkanbarin.utilities;
+package com.amazon.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

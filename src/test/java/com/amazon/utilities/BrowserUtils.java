@@ -1,4 +1,4 @@
-package erkanbarin.utilities;
+package com.amazon.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;
